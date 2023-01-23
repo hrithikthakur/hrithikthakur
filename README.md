@@ -29,12 +29,15 @@
   <summary>📊 <b>Readme</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/abhinandanraj">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikthakur&show_icons=true&count_private=true">
-  </a>
+  <div>
   <a href="https://github.com/abhinandanraj/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hrithikthakur&layout=compact&langs_count=6" />
   </a>
+            </div>
+            <div>
+   <a href="https://github.com/hrithikthakur">
+   <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikthakur&show_icons=true&count_private=true">
+              </a></div>
  </p>
 </details>
 
