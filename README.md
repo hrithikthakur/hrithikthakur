@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.ctfassets.net/thz836qc8ggc/BQUnnQbjTVYIqRqwxNlj8/3361442b8b1d71cb853de19a698efac3/200__5_.gif">
 <div>
 <details>
-  <summary><h3 align="left">🧰 About me</h3></summary>
+  <summary><h3 align="left"> About me</h3></summary>
 
 - 🔭 I’m currently working on **File Server**
 
@@ -37,10 +37,10 @@
  <br />
  <p align="center">
   <a href="https://github.com/abhinandanraj">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanraj&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikthakur&show_icons=true&count_private=true">
   </a>
   <a href="https://github.com/abhinandanraj/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhinandanraj&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hrithikthakur&layout=compact&langs_count=6" />
   </a>
  </p>
 </details>
@@ -50,7 +50,7 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=abhinandanraj&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=hrithikthakur&column=8"/>
   </a>
  </p>
 </details>
