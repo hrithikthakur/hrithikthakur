@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java**
 
-- ⚡️ Fun fact: I've never used a toaster in my life
+- ⚡️ Fun fact: I've never used a **toaster** in my life!
 
 </details>
 
