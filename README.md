@@ -1,7 +1,6 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
 <h3 align="center">Studying AI at University of Edinburgh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikthakur&label=Profile%20views&color=0e75b6&style=flat" alt="aachal28" /> </p>
 <img align="right" alt="Coding" width="400" src="https://images.ctfassets.net/thz836qc8ggc/BQUnnQbjTVYIqRqwxNlj8/3361442b8b1d71cb853de19a698efac3/200__5_.gif">
 <div>
 <details>
