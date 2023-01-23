@@ -5,13 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://images.ctfassets.net/thz836qc8ggc/BQUnnQbjTVYIqRqwxNlj8/3361442b8b1d71cb853de19a698efac3/200__5_.gif">
 <div>
 <details>
-  <summary><h3 align="left"> About me</h3></summary>
+  <summary><h3 align="left">👦🏻 About me</h3></summary>
 
 - 🔭 I’m currently working on **File Server**
 
 - 💬 Ask me about **Java**
 
-- Fun fact: I've never used a toaster in my life
+- ⚡️ Fun fact: I've never used a toaster in my life
 
 </details>
 
@@ -26,13 +26,7 @@
         <summary>
             <h3 align="left">📊 GitHub Stats</h3>  </summary>
         <div align="left" >
-            <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikthakur&layout=compact"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikthakur&)">
-    </details>
-</div>
-    
-  <h3 align="left">📊 GitHub Stats</h3> 
-
-<details>
+          <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
@@ -54,6 +48,13 @@
   </a>
  </p>
 </details>
+          
+     
+</div>
+    
+  
+
+  </div>
 <div>
     <details>
         <summary><h3 align="left">🤝 Connect with me</h3></summary>
