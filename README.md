@@ -63,7 +63,7 @@
 
   <p align = "left">
             <a href="https://www.linkedin.com/in/hrithik-thakur-225342237/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="The Matrix has you" height="30" width="40" /></a>
-            <a href="https://www.facebook.com/profile.php?id=100086051536229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100086051536229" height="30" width="40" /></a>
+<!--             <a href="https://www.facebook.com/profile.php?id=100086051536229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100086051536229" height="30" width="40" /></a> -->
             <a href="mailto:hrithikthakur17@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="The Matrix has you" height="30" width="40" /></a>
       </p>
 
