@@ -30,7 +30,7 @@
  <br />
  <p align="center">
   <div>
-  <a href="https://github.com/abhinandanraj/github-readme-stats">
+  <a href="https://github.com/hrithikthakur/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hrithikthakur&layout=compact&langs_count=6" />
   </a>
             </div>
