@@ -1,10 +1,10 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/hrithikthakur/hrithikthakur/blob/56eabf91ec14a6a5496346685ebbfe98d77d9554/1685296492876.jpeg)
-<h1 align="center">Heyy you, how you doing?</h1>
-<h3 align="center">I'm Hrithik, thanks for landing on this tiny corner of The Web 🤗</h3>
+<h1 align="center" style="color: black;">Heyy you, how you doing?</h1>
+<h3 align="center" style="color: black;">I'm Hrithik, thanks for landing on this tiny corner of The Web 🤗</h3>
 <img align="right" alt="Coding" width="400" src="https://images.ctfassets.net/thz836qc8ggc/BQUnnQbjTVYIqRqwxNlj8/3361442b8b1d71cb853de19a698efac3/200__5_.gif">
 <div>
 <details>
-  <summary><h3 align="left">👦🏻 About me</h3></summary>
+  <summary><h3 align="left" style="color: black;">👦🏻 About me</h3></summary>
 
 - 🏫 I study CompSci at the University of Edinburgh.
 - 🔭 The project that I'm working on these days is about making a CPU on a breadboard.
@@ -14,9 +14,9 @@
 
 <div>
     <details>
-        <summary><h3 align="left">🧰 Languages and Tools</h3></summary>
+        <summary><h3 align="left" style="color: black;">🧰 Languages and Tools</h3></summary>
         <p align="left">
-          <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+          <a href="https://www.java.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
           <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
           <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" width="40" height="40"></a>
           <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -32,7 +32,7 @@
 <div>
     <details>
         <summary>
-            <h3 align="left">📊 GitHub Stats</h3>  </summary>
+            <h3 align="left" style="color: black;">📊 GitHub Stats</h3>  </summary>
         <div align="left" >
           <details>
   <summary>📊 <b>Readme</b></summary>
@@ -68,7 +68,7 @@
   </div>
 <div>
     <details>
-        <summary><h3 align="left">🤝 Connect with me</h3></summary>
+        <summary><h3 align="left" style="color: black;">🤝 Connect with me</h3></summary>
 
   <p align = "left">
             <a href="https://www.linkedin.com/in/hrithik-thakur-225342237/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="The Matrix has you" height="30" width="40" /></a>
