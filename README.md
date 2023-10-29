@@ -1,6 +1,6 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/hrithikthakur/hrithikthakur/blob/56eabf91ec14a6a5496346685ebbfe98d77d9554/1685296492876.jpeg)
-# <span style="color:red;">Heyy you, how you doing?</span>
-## <span style="color:red;">I'm Hrithik, thanks for landing on this tiny corner of The Web 🤗</span>
+# <span style="color:Red;">Heyy you, how you doing?</span>
+## <span style="color:Red;">I'm Hrithik, thanks for landing on this tiny corner of The Web 🤗</span>
 
 <h1 align="center" style="color:Red;">Heyy you, how you doing?</h1>
 <h3 align="center" style="color:Black;">I'm Hrithik, thanks for landing on this tiny corner of The Web 🤗</h3>
