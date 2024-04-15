@@ -1,5 +1,5 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/hrithikthakur/hrithikthakur/blob/56eabf91ec14a6a5496346685ebbfe98d77d9554/1685296492876.jpeg)
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width=100%>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
