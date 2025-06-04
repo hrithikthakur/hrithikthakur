@@ -16,6 +16,8 @@
     <details>
         <summary><h3 align="left" style="color:Black;">🧰 Languages and Tools</h3></summary>
         <p align="left">
+          <a href="https://www.reactnative.dev" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg" alt="react" width="40" height="40"/> </a> 
+          
           <a href="https://www.java.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
           <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
           <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" width="40" height="40"></a>
