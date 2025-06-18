@@ -73,7 +73,7 @@
         <summary><h3 align="left" style="color: black;">🤝 Connect with me</h3></summary>
 
   <p align = "left">
-            <a href="https://www.linkedin.com/in/hrithik-thakur-225342237/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="The Matrix has you" height="30" width="40"></a>
+            <a href="https://www.linkedin.com/in/hrithik-loves-eng/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="The Matrix has you" height="30" width="40"></a>
           <a href="mailto:hrithikthakur17@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="The Matrix has you" height="30" width="40" /></a>
       </p>
 
