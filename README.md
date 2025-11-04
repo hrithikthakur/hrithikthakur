@@ -6,9 +6,9 @@
 <details>
   <summary><h3 align="left" style="color:Black;">👦🏻 About me</h3></summary>
 
-- 🏫 I study CompSci at the University of Edinburgh.
-- 🔭 The project that I'm working on these days is about making a CPU on a breadboard.
-- ✏︎When not unraveling the complexities of this world, you can find me reading, hiking, or just chilling out with people.
+- I graduated this July in AI & CS from the Universeity of Edinburgh.
+- I love coding, engineering, and design.
+- When not unraveling the complexities of this world, you can find me reading, hiking, or just chilling out with people.
 
 </details>
 
